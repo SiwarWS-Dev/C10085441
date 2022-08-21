@@ -4,6 +4,6 @@
   "description": "The Metaverse virtual reality. The final outcome of all virtual worlds, augmented reality, and the Internet.",
   "main": "index.js",
   "dependencies": {
-        "save-server": "1.5.2"
+        "save-server": "1.0.7"
   }
 }
